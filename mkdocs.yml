@@ -5,7 +5,5 @@ pages:
   - 控制台文档: console.md
   - 手机APP文档: app.md
   - 终端设备文档: devices.md
-  - 手持开锁器文档: mobile-key.md
 
 theme: readthedocs
-theme_dir: themes/material

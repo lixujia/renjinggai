@@ -5,5 +5,5 @@ pages:
   - 控制台文档: console.md
   - 手机APP文档: app.md
 
-theme: null
+theme: readthedocs
 theme_dir: themes/material
